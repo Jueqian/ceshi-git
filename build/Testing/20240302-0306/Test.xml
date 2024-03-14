@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240302-0306-Experimental"
+	Name="xxd-System"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="xxd-System"
+	OSRelease="5.15.0-94-generic"
+	OSVersion="#104~20.04.1-Ubuntu SMP Tue Jan 16 13:34:09 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="167"
+	ProcessorCacheSize="16384"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="15624"
+	TotalPhysicalMemory="15823"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2500"
+	>
+	<Testing>
+		<StartDateTime>Mar 02 11:27 CST</StartDateTime>
+		<StartTestTime>1709350021</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 02 11:27 CST</EndDateTime>
+		<EndTestTime>1709350021</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

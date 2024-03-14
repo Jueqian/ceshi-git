@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/xxd/workspace/projects/a-ceshi/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/demo.dir/main.cpp.o -c /home/xxd/workspace/projects/a-ceshi/main.cpp",
+  "file": "/home/xxd/workspace/projects/a-ceshi/main.cpp"
+},
+{
+  "directory": "/home/xxd/workspace/projects/a-ceshi/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/dedemo.dir/main.cpp.o -c /home/xxd/workspace/projects/a-ceshi/main.cpp",
+  "file": "/home/xxd/workspace/projects/a-ceshi/main.cpp"
+}
+]
